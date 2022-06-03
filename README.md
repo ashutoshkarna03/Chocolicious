@@ -39,7 +39,7 @@ pip install virtualenv
 Clone or download this repository and open it in your editor of choice. In a terminal (mac/linux) or windows terminal, run the following command in the base directory of this project
 
 ```
-git clone https://github.com/bickkysahani/Chocolicious.git
+git clone https://github.com/ashutoshkarna03/Chocolicious.git
 cd Chocolicious
 
 ```
